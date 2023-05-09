@@ -16,8 +16,15 @@
 - 📮 Ask Me Anything via **[kaiyuan.hu@zilliz.com](mailto:kaiyuan.hu@zilliz.com)**/**[ucapkhu@ucl.ac.uk](ucapkhu@ucl.ac.uk)**
 
 
-## 📈 My Github Stats
+## 📈 Github Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiiizzzy&show_icons=true&theme=gotham)](https://github-readme-stats.vercel.app/api?username=Chiiizzzy&show_icons=true&theme=gotham)
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chiiizzzy&theme=dracula)](https://github.com/Chiiizzzy/github-readme-activity-graph) -->
+
+
+## ⚡️ My Recent Activities
+
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:start-->
