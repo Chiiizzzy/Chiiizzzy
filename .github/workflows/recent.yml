@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  recent-activity:
     runs-on: ubuntu-latest
     name: Update Profile README
 
@@ -19,6 +19,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: '.github/recent-activity.config.yml'
+  metrics:
+    name: 'Update SVGs for Readme stats'
+    runs-on: ubuntu-latest
+    needs: recent-activity
+    steps:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.followup.user.svg
