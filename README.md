@@ -23,6 +23,8 @@
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chiiizzzy&theme=dracula)](https://github.com/Chiiizzzy/github-readme-activity-graph) -->
 
 
+![Metrics 👋](/metrics.plugin.followup.user.svg)
+
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
