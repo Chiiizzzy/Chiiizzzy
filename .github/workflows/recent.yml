@@ -12,9 +12,9 @@ jobs:
 
     steps:
       - name: 'Checkout Repository'
-      - uses: actions/Checkout@v3
+        uses: actions/Checkout@v3
       - name: 'Update README.md'
-      - uses: Readme-Workflows/recent-activity@main
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
