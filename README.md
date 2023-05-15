@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 15th, 2023, 6:18:54 AM
+Last Updated: Monday, May 15th, 2023, 7:14:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#346](https://github.com/zilliztech/GPTCache/pull/346) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)<br>
-2. 💪 Opened PR [#342](https://github.com/zilliztech/GPTCache/pull/342) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)<br>
-3. ⬆️ Pushed 4 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
-4. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
-5. ⬆️ Pushed 4 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+1. ⬆️ Pushed 3 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+2. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+3. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+4. 💪 Opened PR [#346](https://github.com/zilliztech/GPTCache/pull/346) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)<br>
+5. 💪 Opened PR [#342](https://github.com/zilliztech/GPTCache/pull/342) in [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)<br>
 <!--RECENT_ACTIVITY:end-->
