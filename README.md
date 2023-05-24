@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 24th, 2023, 2:34:38 AM
+Last Updated: Wednesday, May 24th, 2023, 3:16:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#19](https://github.com/conda-forge/towhee-feedstock/pull/19) in [conda-forge/towhee-feedstock](https://github.com/conda-forge/towhee-feedstock)<br>
-2. ⬆️ Pushed 13 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
-3. ⬆️ Pushed 10 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
-4. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-5. 💪 Opened PR [#2549](https://github.com/towhee-io/towhee/pull/2549) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+1. ⬆️ Pushed 7 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+2. 💪 Opened PR [#19](https://github.com/conda-forge/towhee-feedstock/pull/19) in [conda-forge/towhee-feedstock](https://github.com/conda-forge/towhee-feedstock)<br>
+3. ⬆️ Pushed 13 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+4. ⬆️ Pushed 10 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+5. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
 <!--RECENT_ACTIVITY:end-->
