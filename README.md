@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 25th, 2023, 3:15:08 AM
+Last Updated: Thursday, May 25th, 2023, 4:16:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-2. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-3. ❌ Closed PR [#2555](https://github.com/towhee-io/towhee/pull/2555) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
-4. 💪 Opened PR [#2555](https://github.com/towhee-io/towhee/pull/2555) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
-5. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+1. ⬆️ Pushed 5 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+2. ⬆️ Pushed 3 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+3. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+4. ❌ Closed PR [#2555](https://github.com/towhee-io/towhee/pull/2555) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+5. 💪 Opened PR [#2555](https://github.com/towhee-io/towhee/pull/2555) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
 <!--RECENT_ACTIVITY:end-->
