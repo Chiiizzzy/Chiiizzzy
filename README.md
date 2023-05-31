@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 31st, 2023, 9:14:56 AM
+Last Updated: Wednesday, May 31st, 2023, 10:14:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 10 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
-2. ⬆️ Pushed 7 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
-3. 💬 Commented on [#2567](https://github.com/towhee-io/towhee/pull/2567#issuecomment-1566454678) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
-4. ⬆️ Pushed 4 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-5. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+1. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+2. 💪 Opened PR [#2569](https://github.com/towhee-io/towhee/pull/2569) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+3. ⬆️ Pushed 10 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+4. ⬆️ Pushed 7 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+5. 💬 Commented on [#2567](https://github.com/towhee-io/towhee/pull/2567#issuecomment-1566454678) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
 <!--RECENT_ACTIVITY:end-->
