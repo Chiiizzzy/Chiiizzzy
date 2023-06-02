@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 2nd, 2023, 7:12:38 AM
+Last Updated: Friday, June 2nd, 2023, 8:17:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2572](https://github.com/towhee-io/towhee/pull/2572#issuecomment-1573057920) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
-2. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+1. 💬 Commented on [#2573](https://github.com/towhee-io/towhee/pull/2573#issuecomment-1573330502) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+2. 💬 Commented on [#2572](https://github.com/towhee-io/towhee/pull/2572#issuecomment-1573057920) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
 3. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-4. ❗️ Opened issue [#1506](https://github.com/milvus-io/pymilvus/issues/1506) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)<br>
-5. ⬆️ Pushed 40 commit(s) to [Chiiizzzy/pymilvus](https://github.com/Chiiizzzy/pymilvus)<br>
+4. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+5. ❗️ Opened issue [#1506](https://github.com/milvus-io/pymilvus/issues/1506) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)<br>
 <!--RECENT_ACTIVITY:end-->
