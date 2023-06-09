@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 9th, 2023, 2:54:55 AM
+Last Updated: Friday, June 9th, 2023, 3:21:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+1. 💬 Commented on [#2583](https://github.com/towhee-io/towhee/pull/2583#issuecomment-1583883633) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
 2. ⬆️ Pushed 4 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-3. 💬 Commented on [#2581](https://github.com/towhee-io/towhee/pull/2581#issuecomment-1580292201) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
-4. ⬆️ Pushed 6 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-5. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+3. ⬆️ Pushed 4 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+4. 💬 Commented on [#2581](https://github.com/towhee-io/towhee/pull/2581#issuecomment-1580292201) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+5. ⬆️ Pushed 6 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
 <!--RECENT_ACTIVITY:end-->
