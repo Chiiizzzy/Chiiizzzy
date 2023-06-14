@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 14th, 2023, 10:14:47 AM
+Last Updated: Wednesday, June 14th, 2023, 11:11:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-2. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-3. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
-4. 🎉 Merged PR [#1](https://github.com/Chiiizzzy/zilliz-mongodb-demo/pull/1) in [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
-5. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
+1. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
+2. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
+3. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+4. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+5. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
 <!--RECENT_ACTIVITY:end-->
