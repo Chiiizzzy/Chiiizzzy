@@ -28,7 +28,7 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 15th, 2023, 3:15:09 AM
+Last Updated: Thursday, June 15th, 2023, 4:16:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -36,5 +36,5 @@ Last Updated: Thursday, June 15th, 2023, 3:15:09 AM
 2. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
 3. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
 4. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
-5. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+5. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
 <!--RECENT_ACTIVITY:end-->
