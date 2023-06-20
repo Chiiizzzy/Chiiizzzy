@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 20th, 2023, 2:35:36 AM
+Last Updated: Tuesday, June 20th, 2023, 3:15:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2595](https://github.com/towhee-io/towhee/pull/2595#issuecomment-1594394252) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
-2. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
-3. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
-4. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
-5. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/zilliz-mongodb-demo](https://github.com/Chiiizzzy/zilliz-mongodb-demo)<br>
+1. ⬆️ Pushed 11 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+2. ⬆️ Pushed 11 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+3. ⬆️ Pushed 13 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+4. ⬆️ Pushed 13 commit(s) to [Chiiizzzy/GPTCache](https://github.com/Chiiizzzy/GPTCache)<br>
+5. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
 <!--RECENT_ACTIVITY:end-->
