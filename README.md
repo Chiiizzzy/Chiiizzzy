@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 25th, 2023, 1:50:02 AM
+Last Updated: Sunday, June 25th, 2023, 3:11:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/mdb-solution-demo/mdb-zilliz-demo/pull/2) in [mdb-solution-demo/mdb-zilliz-demo](https://github.com/mdb-solution-demo/mdb-zilliz-demo)<br>
-2. ⬆️ Pushed 2 commit(s) to [wxywb/mdb-zilliz-demo](https://github.com/wxywb/mdb-zilliz-demo)<br>
-3. ⬆️ Pushed 2 commit(s) to [wxywb/mdb-zilliz-demo](https://github.com/wxywb/mdb-zilliz-demo)<br>
-4. ⬆️ Pushed 1 commit(s) to [wxywb/mdb-zilliz-demo](https://github.com/wxywb/mdb-zilliz-demo)<br>
-5. ⬆️ Pushed 1 commit(s) to [wxywb/mdb-zilliz-demo](https://github.com/wxywb/mdb-zilliz-demo)<br>
+1. ⬆️ Pushed 16 commit(s) to [Chiiizzzy/pymilvus](https://github.com/Chiiizzzy/pymilvus)<br>
+2. ⬆️ Pushed 16 commit(s) to [Chiiizzzy/pymilvus](https://github.com/Chiiizzzy/pymilvus)<br>
+3. 💪 Opened PR [#2](https://github.com/mdb-solution-demo/mdb-zilliz-demo/pull/2) in [mdb-solution-demo/mdb-zilliz-demo](https://github.com/mdb-solution-demo/mdb-zilliz-demo)<br>
+4. ⬆️ Pushed 2 commit(s) to [wxywb/mdb-zilliz-demo](https://github.com/wxywb/mdb-zilliz-demo)<br>
+5. ⬆️ Pushed 2 commit(s) to [wxywb/mdb-zilliz-demo](https://github.com/wxywb/mdb-zilliz-demo)<br>
 <!--RECENT_ACTIVITY:end-->
