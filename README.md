@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 5th, 2023, 8:21:54 AM
+Last Updated: Wednesday, July 5th, 2023, 9:17:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-2. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-3. 💪 Opened PR [#2611](https://github.com/towhee-io/towhee/pull/2611) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
-4. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-5. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+1. ⬆️ Pushed 2 commit(s) to [conda-forge/towhee-feedstock](https://github.com/conda-forge/towhee-feedstock)<br>
+2. 🎉 Merged PR [#23](https://github.com/conda-forge/towhee-feedstock/pull/23) in [conda-forge/towhee-feedstock](https://github.com/conda-forge/towhee-feedstock)<br>
+3. 💪 Opened PR [#23](https://github.com/conda-forge/towhee-feedstock/pull/23) in [conda-forge/towhee-feedstock](https://github.com/conda-forge/towhee-feedstock)<br>
+4. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/towhee-feedstock](https://github.com/Chiiizzzy/towhee-feedstock)<br>
+5. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/towhee-feedstock](https://github.com/Chiiizzzy/towhee-feedstock)<br>
 <!--RECENT_ACTIVITY:end-->
