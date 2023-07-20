@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 20th, 2023, 5:13:37 AM
+Last Updated: Thursday, July 20th, 2023, 6:18:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
 2. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-3. 💪 Opened PR [#2633](https://github.com/towhee-io/towhee/pull/2633) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+3. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
 4. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-5. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+5. 💪 Opened PR [#2633](https://github.com/towhee-io/towhee/pull/2633) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
 <!--RECENT_ACTIVITY:end-->
