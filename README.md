@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 8th, 2023, 7:12:15 AM
+Last Updated: Tuesday, August 8th, 2023, 8:17:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-2. ⭐ Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
-3. 💬 Commented on [#2647](https://github.com/towhee-io/towhee/issues/2647#issuecomment-1659753112) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
-4. ⬆️ Pushed 4 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-5. ⬆️ Pushed 4 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+1. ✔️ Closed issue [#2650](https://github.com/towhee-io/towhee/issues/2650) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+2. 💬 Commented on [#2650](https://github.com/towhee-io/towhee/issues/2650#issuecomment-1669064864) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+3. ⬆️ Pushed 3 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+4. ⭐ Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
+5. 💬 Commented on [#2647](https://github.com/towhee-io/towhee/issues/2647#issuecomment-1659753112) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
 <!--RECENT_ACTIVITY:end-->
