@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 14th, 2023, 7:12:42 AM
+Last Updated: Monday, August 14th, 2023, 8:17:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2650](https://github.com/towhee-io/towhee/issues/2650) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
-2. 💬 Commented on [#2650](https://github.com/towhee-io/towhee/issues/2650#issuecomment-1669064864) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
-3. ⬆️ Pushed 3 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-4. ⭐ Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
-5. 💬 Commented on [#2647](https://github.com/towhee-io/towhee/issues/2647#issuecomment-1659753112) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+1. 🔱 Forked [Chiiizzzy/akcio](https://github.com/Chiiizzzy/akcio) from [zilliztech/akcio](https://github.com/zilliztech/akcio)<br>
+2. ⭐ Starred [zilliztech/akcio](https://github.com/zilliztech/akcio)<br>
+3. ✔️ Closed issue [#2650](https://github.com/towhee-io/towhee/issues/2650) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+4. 💬 Commented on [#2650](https://github.com/towhee-io/towhee/issues/2650#issuecomment-1669064864) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+5. ⬆️ Pushed 3 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
 <!--RECENT_ACTIVITY:end-->
