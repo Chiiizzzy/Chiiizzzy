@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 16th, 2023, 10:14:21 AM
+Last Updated: Wednesday, August 16th, 2023, 11:11:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-2. 🔱 Forked [Chiiizzzy/akcio](https://github.com/Chiiizzzy/akcio) from [zilliztech/akcio](https://github.com/zilliztech/akcio)<br>
-3. ⭐ Starred [zilliztech/akcio](https://github.com/zilliztech/akcio)<br>
-4. ✔️ Closed issue [#2650](https://github.com/towhee-io/towhee/issues/2650) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
-5. 💬 Commented on [#2650](https://github.com/towhee-io/towhee/issues/2650#issuecomment-1669064864) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
+1. 💪 Opened PR [#64](https://github.com/zilliztech/akcio/pull/64) in [zilliztech/akcio](https://github.com/zilliztech/akcio)<br>
+2. ⬆️ Pushed 6 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
+3. 🔱 Forked [Chiiizzzy/akcio](https://github.com/Chiiizzzy/akcio) from [zilliztech/akcio](https://github.com/zilliztech/akcio)<br>
+4. ⭐ Starred [zilliztech/akcio](https://github.com/zilliztech/akcio)<br>
+5. ✔️ Closed issue [#2650](https://github.com/towhee-io/towhee/issues/2650) in [towhee-io/towhee](https://github.com/towhee-io/towhee)<br>
 <!--RECENT_ACTIVITY:end-->
