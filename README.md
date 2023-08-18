@@ -28,13 +28,13 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 18th, 2023, 6:17:23 AM
+Last Updated: Friday, August 18th, 2023, 7:12:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/akcio](https://github.com/Chiiizzzy/akcio)<br>
-2. 💪 Opened PR [#64](https://github.com/zilliztech/akcio/pull/64) in [zilliztech/akcio](https://github.com/zilliztech/akcio)<br>
-3. ⬆️ Pushed 6 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
-4. 🔱 Forked [Chiiizzzy/akcio](https://github.com/Chiiizzzy/akcio) from [zilliztech/akcio](https://github.com/zilliztech/akcio)<br>
-5. ⭐ Starred [zilliztech/akcio](https://github.com/zilliztech/akcio)<br>
+1. ⬆️ Pushed 3 commit(s) to [Chiiizzzy/akcio](https://github.com/Chiiizzzy/akcio)<br>
+2. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/akcio](https://github.com/Chiiizzzy/akcio)<br>
+3. ⬆️ Pushed 1 commit(s) to [Chiiizzzy/akcio](https://github.com/Chiiizzzy/akcio)<br>
+4. 💪 Opened PR [#64](https://github.com/zilliztech/akcio/pull/64) in [zilliztech/akcio](https://github.com/zilliztech/akcio)<br>
+5. ⬆️ Pushed 6 commit(s) to [Chiiizzzy/towhee](https://github.com/Chiiizzzy/towhee)<br>
 <!--RECENT_ACTIVITY:end-->
