@@ -28,13 +28,11 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 23rd, 2023, 1:06:15 AM
+Last Updated: Thursday, November 23rd, 2023, 2:26:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/akcio](https://github.com/Chiiizzzy/akcio)<br>
 2. ⬆️ Pushed 3 commit(s) to [Chiiizzzy/akcio](https://github.com/Chiiizzzy/akcio)<br>
 3. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/akcio](https://github.com/Chiiizzzy/akcio)<br>
-4. ⬆️ Pushed 2 commit(s) to [Chiiizzzy/towhee-feedstock](https://github.com/Chiiizzzy/towhee-feedstock)<br>
-5. ⬆️ Pushed 41 commit(s) to [Chiiizzzy/pymilvus](https://github.com/Chiiizzzy/pymilvus)<br>
 <!--RECENT_ACTIVITY:end-->
