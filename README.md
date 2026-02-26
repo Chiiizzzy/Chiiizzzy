@@ -8,12 +8,11 @@
 - 🇬🇧 UCL - MSc in Scientific and Data Intensive Computing, 9/2020 - 12/2021, graduated **with 🧑‍🎓 Distinction**.
 - 🇨🇳 HDU - BSc in Compute Science, 9/2016 - 6/2020, graduated **with GPA 4.7**.
 - ⚡️ C++ / Python
-- 🧑‍💻 AI Platform Engineer at [zilliz](https://zilliz.com/) currently
+- 🧑‍💻 Former AI Platform Engineer at [zilliz](https://zilliz.com/) 
 - 💬 Collaborator of [Towhee](https://github.com/towhee-io/towhee), [GPTCache](https://github.com/zilliztech/GPTCache), [Pymilvus](https://github.com/milvus-io/pymilvus)
 - ✍️ [Unstable Blogger](https://blog.csdn.net/DooDia)
-- 🏃 Jogging, Bodybuilding Workout
-- 📹 Freelance Vlogger
-- 📮 Ask Me Anything via **[kaiyuan.hu@zilliz.com](mailto:kaiyuan.hu@zilliz.com)**/**[ucapkhu@ucl.ac.uk](ucapkhu@ucl.ac.uk)**
+- 🏃 Jogging, Gym, climbing
+- 📮 Ask Me Anything via **[ucapkhu.ky@gmail.com](mailto:ucapkhu.ky@gmail.com)**
 
 
 ## 📈 Github Stats
