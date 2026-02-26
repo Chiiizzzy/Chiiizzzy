@@ -5,14 +5,22 @@
 ## 🧑‍💻 About Me
 
 
-- 🇬🇧 UCL - MSc in Scientific and Data Intensive Computing, 9/2020 - 12/2021, graduated **with 🧑‍🎓 Distinction**.
-- 🇨🇳 HDU - BSc in Compute Science, 9/2016 - 6/2020, graduated **with GPA 4.7**.
-- ⚡️ C++ / Python
-- 🧑‍💻 Former AI Platform Engineer at [zilliz](https://zilliz.com/) 
-- 💬 Collaborator of [Towhee](https://github.com/towhee-io/towhee), [GPTCache](https://github.com/zilliztech/GPTCache), [Pymilvus](https://github.com/milvus-io/pymilvus)
-- ✍️ [Unstable Blogger](https://blog.csdn.net/DooDia)
-- 🏃 Jogging, Gym, climbing
-- 📮 Ask Me Anything via **[ucapkhu.ky@gmail.com](mailto:ucapkhu.ky@gmail.com)**
+- 🇬🇧 **UCL – MSc in Scientific and Data Intensive Computing**
+
+  **Sep 2020 – Dec 2021** | Graduated with Distinction
+- 🇨🇳 **Hangzhou Dianzi University (HDU) – BSc in Computer Science**
+
+  **Sep 2016 – Jun 2020** | Graduated with GPA: 4.7 / 5.0
+- 🎵 **ByteDance – Recommendation Infrastructure Engineer**
+
+  **Sep 2023 - Now** | Build and optimize large-scale online serving systems for recommendation scenarios; worked on retrieval, ranking, and feature infrastructure to support low-latency, high-throughput inference at scale.
+- 🧑‍💻 **Zilliz – AI Platform Engineer**
+
+  **April 2021 - Sep 2023** | Collaborator of AI/ML ecosystems including [Towhee](https://github.com/towhee-io/towhee), [GPTCache](https://github.com/zilliztech/GPTCache), [Pymilvus](https://github.com/milvus-io/pymilvus); focused on vector search, model acceleration, and developer tooling for AI-native applications.
+
+- ⚡️ **Tech Stack**: C++ / Python / Distributed Systems / Vector Search / Recommend System
+- 🧗 **Outside Code**: Climbing, Gym, Jogging
+- 📮 **Reach me**: **[ucapkhu.ky@gmail.com](mailto:ucapkhu.ky@gmail.com)** | Feel free to Ask Me Anything!
 
 
 ## 📈 Github Stats
