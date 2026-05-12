@@ -35,11 +35,10 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 12th, 2026, 4:19:25 PM
+Last Updated: Tuesday, May 12th, 2026, 6:56:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
 2. ⭐ Starred [cloudwego/eino](https://github.com/cloudwego/eino)<br>
-3. ⭐ Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)<br>
 <!--RECENT_ACTIVITY:end-->
