@@ -35,8 +35,10 @@
 ## ⚡️ My Recent Activities
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 14th, 2026, 5:52:52 PM
+Last Updated: Thursday, May 14th, 2026, 7:47:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
+2. ⭐ Starred [cloudwego/eino](https://github.com/cloudwego/eino)<br>
 <!--RECENT_ACTIVITY:end-->
